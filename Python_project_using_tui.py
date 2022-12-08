@@ -36,6 +36,8 @@ print('''
 7.Sqaure root
 8.Square
 9.Sin
+10.Cos
+11.Tan
 
 
 ''')
