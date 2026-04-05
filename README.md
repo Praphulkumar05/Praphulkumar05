@@ -12,26 +12,26 @@
 * 💡 Interested in **Full Stack Development**
 * 🧠 Strong in **Java, DSA & Problem Solving**
 * 🔧 Familiar with **API Testing using Postman**
-* 🎯 Goal: To become a **Software Developer / Full Stack Engineer**
+* 🎯 Goal: **Software Developer / Full Stack Engineer**
 
 ---
 
 ## 🛠️ Tech Stack
 
-💻 Languages:
-Java | C++ | JavaScript
+**💻 Languages:**
+`Java` `C++` `JavaScript`
 
-🌐 Frontend:
-HTML | CSS | JavaScript
+**🌐 Frontend:**
+`HTML` `CSS` `JavaScript`
 
-⚙️ Backend (Learning):
-Node.js | Express.js
+**⚙️ Backend (Learning):**
+`Node.js` `Express.js`
 
-🗄️ Database:
-MongoDB
+**🗄️ Database:**
+`MongoDB`
 
-🧪 Tools:
-Postman | Git | GitHub
+**🧪 Tools:**
+`Postman` `Git` `GitHub`
 
 ---
 
@@ -55,7 +55,7 @@ Postman | Git | GitHub
 🌐 **Portfolio Website**
 
 * Personal portfolio showcasing projects and skills
-* Responsive design with modern layout
+* Fully responsive modern design
 
 🔗 **API Testing Project**
 
@@ -66,15 +66,18 @@ Postman | Git | GitHub
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praphulkumar05\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praphulkumar05\&layout=compact\&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Praphulkumar05&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praphulkumar05&layout=compact&theme=radical" height="150"/>
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Praphulkumar05\&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Praphulkumar05&theme=radical" height="150"/>
+</p>
 
 ---
 
@@ -85,4 +88,4 @@ Postman | Git | GitHub
 
 ---
 
-⭐ *“Consistency is the key to success in coding.”*
+⭐ *“Consistency beats perfection in coding.”*
