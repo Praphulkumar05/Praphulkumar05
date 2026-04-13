@@ -18,16 +18,16 @@
 ## 🛠️ Tech Stack
 
 **💻 Languages:**
-`Java` `C++` `JavaScript`
+`Java`  `JavaScript`
 
 **🌐 Frontend:**
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript` `React.Js`
 
 **⚙️ Backend (Learning):**
-`Node.js` `Express.js`
+`Java ☕ (Core Java, OOPs)`, `Node.js`, `Express.js`
 
 **🗄️ Database:**
-`MongoDB`
+`MongoDB` `SQL`
 
 **🧪 Tools:**
 `Postman` `Git` `GitHub`
@@ -36,30 +36,50 @@
 
 ## 📌 Projects
 
-🔐 **Responsive Login Page**
+💻 Development Projects
+🚀 SkillOracle – AI Career Roadmap Platform
 
-* User-friendly login UI with validation
-* Built using HTML, CSS, JavaScript
+Full-stack MERN application with AI-based career guidance
 
-📋 **Bucket List App**
+Resume analysis, skill gap detection & personalized recommendations
 
-* Add, delete and manage daily goals
-* Interactive UI with dynamic updates
+JWT authentication with Admin/User dashboards
 
-📞 **Contact Form with Validation**
+🏥 OPD Token Allocation Engine
 
-* Form validation using JavaScript
-* Clean UI and proper error handling
+Backend system for managing patient token allocation
 
-🌐 **Portfolio Website**
+Built REST APIs using Node.js & Express.js
 
-* Personal portfolio showcasing projects and skills
-* Fully responsive modern design
+Efficient queue and request handling
 
-🔗 **API Testing Project**
+🔔 Real-Time Notification System (Java)
 
-* Tested APIs using Postman
-* Validated responses, status codes, and data
+Event-based notification system using Java
+
+Simulates real-time alerts and updates
+
+Focus on backend logic and asynchronous handling
+
+🌐 Frontend Web Projects
+
+🔐 Responsive Login Page
+
+User-friendly login UI with validation
+
+Built using HTML, CSS, JavaScript
+
+📋 Bucket List App
+
+Add, delete and manage daily goals
+
+Interactive UI with dynamic updates
+
+📞 Contact Form with Validation
+
+Form validation using JavaScript
+
+Clean UI and proper error handling
 
 ---
 
