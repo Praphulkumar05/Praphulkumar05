@@ -102,8 +102,8 @@ Clean UI and proper error handling
 
 ## 📫 Connect with Me
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-💼 LinkedIn: your-linkedin-link
+📧 Email: kumarpraphul05@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/praphul05/
 
 ---
 
