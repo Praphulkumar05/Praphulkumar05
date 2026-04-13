@@ -1,8 +1,7 @@
 # Hi 👋, I'm Praphul Kumar
 
-🎓 Final Year BTech Student from LPU
-💻 Frontend Developer | Learning Backend Development
-🚀 Passionate about building real-world projects and improving problem-solving skills
+🚀 Looking for opportunities as a Software Developer 💻 or Software Tester 🧪, where I can utilize my skills in MERN stack ⚛️, Java ☕, and API testing 🔗 to develop reliable applications and ensure high-quality software delivery.
+🌱 Interested in both development and testing roles, with a strong focus on continuous learning 📚 and practical implementation ⚙️.
 
 ---
 
